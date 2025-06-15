@@ -1,0 +1,15 @@
+{
+  "name": "tea-manager",
+  "version": "1.0.0",
+  "description": "Tells different types of tea",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Lokesh Konka",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
